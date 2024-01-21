@@ -15,8 +15,10 @@ NQueens Problem: The n-queens problem is to place n queens (where n > 0) on an n
   <ul>Hill Climbing Search</ul>
   <ul>Random Hill Climbing Search</ul>
 </li>
+<p>
+   <h2>Development Environment</h2>
+Python Version: 3.11 <br>
+Operating System: Windows <br>
+IDE: Visual Studio Code<br>
+</p>
 
-1 Development Environment
-Python Version: 3.11
-Operating System: Windows
-IDE: Visual Studio Code
